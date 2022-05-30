@@ -6,4 +6,13 @@ h1 {
     background-color: rgb(146, 8, 8);
     color: #ffffff;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.border {
+    border: 2px solid rgb(146, 8, 8);
+}
+
+#padding {
+    padding-left: 100px;
 }
