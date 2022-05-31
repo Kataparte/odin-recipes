@@ -6,11 +6,16 @@ h1 {
     background-color: rgb(65, 94, 187);
     color: #ffffff;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Dancing Script', cursive;
 }
 
 #padding {
     padding-left: 100px;
+}
+
+.font {
+    font-family: 'Dancing Script', cursive;
+    font-size: larger;
 }
 
 
