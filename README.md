@@ -1,2 +1,2 @@
 # odin-recipes
-<!--My first odin project using HTML-->
+<p>My first odin project using HTML/CSS!</p>
